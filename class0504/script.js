@@ -19,3 +19,12 @@ console.log("My name is ");
 // Logs "My name is Tonya"
 console.log("My name is " + studentName);
 
+// 04 activity
+
+// var personName = "Steve Rosa";
+// var pets = "1"
+// var funFact = "I have been skydiving once"
+
+// console.log("my name is " + personName)
+// console.log("i have " + pets + " pet")
+// console.log(funFact)
